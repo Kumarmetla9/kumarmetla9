@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab_CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </p>
 
 #### 📊 Monitoring & Observability
