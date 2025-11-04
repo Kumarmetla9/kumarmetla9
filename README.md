@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenShift-D52B1E?style=for-the-badge&logo=openshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-FD7E14?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
 #### 🔄 CI/CD Tools
@@ -70,6 +69,9 @@
   <img src="https://img.shields.io/badge/GitLab_CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-2E8B57?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tekton-0D47A1?style=for-the-badge&logo=tekton&logoColor=white" />
+  <img src="https://img.shields.io/badge/HelmCharts-FD7E14?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
 #### 📊 Monitoring & Observability
