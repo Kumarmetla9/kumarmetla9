@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Kumar Raja Sekhar Metla</h1>
-<h3 align="center">☁️ Senior Cloud | Kubernetes | DevSecOps | DevOps Engineer ☁️</h3>
+<h3 align="center">IT Leadership | Senior Cloud | Kubernetes | DevSecOps | DevOps Engineer ☁️</h3>
 
 ---
 
@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kumar-raja-sekhar-metla-975348157" target="_blank">LinkedIn</a> |
   <a href="mailto:kumarmetla91@gmail.com">Email</a>
+  <a href="mobile:7176082896">Mobile</a>
 </p>
 
 ---
