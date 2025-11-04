@@ -2,7 +2,7 @@
   <img src="https://github.com/Kumarmetla9/kumarmetla9/blob/main/profile.jpg" width="200" height="200" style="border-radius:50%; border:2px solid #0366d6;" alt="Kumar Raja Sekhar Metla" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kumar Raja Sekhar Metla</h1>
+<h1 align="center">Kumar Raja Sekhar Metla</h1>
 <h3 align="center">☁️ Senior Cloud | Kubernetes | DevSecOps | DevOps Engineer ☁️</h3>
 
 ---
