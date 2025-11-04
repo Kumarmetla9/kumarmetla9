@@ -85,10 +85,13 @@
 
 #### 🔐 Security & Testing
 <p align="left">
-  <img src="https://img.shields.io/badge/Veracode-FF5C00?style=for-the-badge&logo=veracode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkmarx-FF0000?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Snyk-00BFFF?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Veracode-FF5C00?style=for-the-badge&logo=veracode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SeaLights-6C63FF?style=for-the-badge&logo=sealights&logoColor=white" />
 </p>
+
 
 #### 🧠 Project Management & Collaboration
 <p align="left">
