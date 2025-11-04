@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Kumar Raja Sekhar Metla</h1>
-<h3 align="center">IT Leadership | Senior Cloud | Kubernetes | DevSecOps | DevOps Engineer ☁️</h3>
+<h3 align="center">IT Leadership | Senior Cloud | Kubernetes | DevSecOps | DevOps Engineer </h3>
 
 ---
 
