@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kumar-raja-sekhar-metla-975348157" target="_blank">LinkedIn</a> |
   <a href="mailto:kumarmetla91@gmail.com">Email</a> |
-  <a href="tel:+17176082896">Mobile</a>
+  <img src="https://img.shields.io/badge/📞_717--608--2896-blue?style=flat" alt="Phone" />
 </p>
 ---
 
