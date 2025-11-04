@@ -10,7 +10,7 @@
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/kumar-raja-sekhar-metla-975348157" target="_blank">LinkedIn</a> |
-  <a href="mailto:kumarmetla91@gmail.com">Email</a>
+  <a href="mailto:kumarmetla91@gmail.com">Email</a> |
   <a href="mobile:7176082896">Mobile</a>
 </p>
 
