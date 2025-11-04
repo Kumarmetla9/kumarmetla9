@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kumarmetla9/kumarmetla9/blob/main/profile.jpg" width="200" height="200" style="border-radius:50%; border:2px solid #0366d6;" alt="Kumar Raja Sekhar Metla" />
+  <img src="https://github.com/Kumarmetla9/kumarmetla9/blob/main/profile.jpg" width="200" height="200" style="border-radius:50%; border:2px solid #0366d6;" alt="Kumar Raja Sekhar Metla" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumar Raja Sekhar Metla</h1>
