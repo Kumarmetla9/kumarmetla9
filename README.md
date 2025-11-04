@@ -9,83 +9,65 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/kumar-raja-sekhar-metla-975348157" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kumarmetla91@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40"/>
-  </a>
+  <a href="https://linkedin.com/in/kumar-raja-sekhar-metla-975348157" target="_blank">LinkedIn</a> |
+  <a href="mailto:kumarmetla91@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 🚀 About Me  
-💼 **Cloud & DevOps Engineer** with 12+ years of experience architecting, designing, and managing **Azure** and **AWS** cloud infrastructures.  
-🧰 Passionate about **Infrastructure as Code (IaC)**, **Kubernetes**, **CI/CD automation**, and **cloud-native security**.  
-🔍 Skilled in **cost optimization**, **monitoring**, and **DevSecOps** integration across enterprise platforms.  
-🌱 Currently exploring **AI-driven DevOps**, **FinOps**, and **Platform Engineering**.  
-⚡ Known for delivering **scalable, resilient, and secure cloud solutions** with a focus on automation and agility.  
+💼 **Cloud & DevOps Engineer** with 12+ years of experience designing, architecting, and managing enterprise-level infrastructure across **Azure** and **AWS**.  
+🧰 Passionate about **Infrastructure as Code (IaC)**, **Kubernetes orchestration**, and **CI/CD automation** with a strong focus on **cloud-native security**.  
+🔍 Skilled in **cost optimization**, **monitoring**, and **DevSecOps** best practices for production-grade environments.  
+🌱 Currently exploring **AI-driven DevOps**, **FinOps**, and **Platform Engineering** to enhance automation and operational efficiency.  
+⚡ Known for delivering **resilient, scalable, and secure multi-cloud solutions** that align with business and compliance goals.  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+### 🛠️ Technical Skills
 
-#### ☁️ Cloud Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
-</p>
+#### ☁️ **Cloud Platforms**
+- Microsoft Azure (AKS, App Services, VNets, Application Gateway, Key Vault, Azure Monitor)
+- Amazon Web Services (EKS, EC2, S3, Lambda, RDS, CloudFormation, CloudWatch)
+- Google Cloud Platform (GKE, Compute Engine, Cloud Storage)
 
-#### ⚙️ Infrastructure as Code & Automation
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
-</p>
+#### ⚙️ **Infrastructure as Code (IaC) & Automation**
+- Terraform (Azure & AWS)
+- Ansible (Configuration Management)
+- Scripting: Bash, Python, GoLang, PowerShell
+- ARM Templates, CloudFormation
 
-#### 🐳 Containers & Orchestration
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" width="45" height="45"/>
-</p>
+#### 🐳 **Containers & Orchestration**
+- Docker, Kubernetes (EKS, AKS)
+- OpenShift, Red Hat Container Platform
+- Helm Charts, Argo CD, GitOps
 
-#### 🔄 CI/CD Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" width="45" height="45"/>
-</p>
+#### 🔄 **CI/CD Tools**
+- Jenkins, Bamboo, GitHub Actions, Azure DevOps
+- Bitbucket Pipelines, GitLab CI/CD
+- Argo CD, OpenShift Jenkins
 
-#### 📊 Monitoring & Logging
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="45" height="45"/>
-</p>
+#### 📊 **Monitoring & Observability**
+- Prometheus, Grafana, ELK Stack
+- Splunk, Datadog, AppDynamics, Wily (CA APM)
+- Azure Monitor, AWS CloudWatch, SiteScope
 
-#### 🔐 Security & Testing
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/veracode.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snyk.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sonarqube.svg" width="45" height="45"/>
-</p>
+#### 🔐 **Security & Testing**
+- Veracode, SonarQube, Snyk, Checkmarx, tfsec
+- Wiz, Prisma Cloud, MPT
+- Secret & IAM policy management in Azure/AWS
+
+#### 🧠 **Project Management & Collaboration**
+- Jira, Confluence, ServiceNow, Agile / Scrum
 
 ---
 
 ### 🧩 Highlighted Projects  
 
-🔹 [**Terraform-Azure-Infra**](#) – Infrastructure as Code for multi-environment Azure setup  
-🔹 [**Kubernetes-Microservices-Demo**](#) – CI/CD pipeline deploying apps on AKS/EKS  
-🔹 [**Grafana-Prometheus-Monitoring**](#) – Monitoring stack setup for containerized workloads  
-🔹 [**DevSecOps-Automation**](#) – Security scanning with Snyk, Veracode & SonarQube  
+- **Terraform-Azure-Infra** – Infrastructure as Code for multi-environment Azure provisioning  
+- **Kubernetes-Microservices-Demo** – CI/CD pipelines deploying apps on AKS/EKS  
+- **Grafana-Prometheus-Monitoring** – Monitoring stack setup for containerized workloads  
+- **DevSecOps-Automation** – Integrated security scanning using Snyk, Veracode & SonarQube  
 
 ---
 
@@ -98,11 +80,11 @@
 ---
 
 ### 🏆 Certifications  
-✅ Microsoft Certified: Azure Administrator Associate  
-✅ AWS Certified Solutions Architect – Associate  
-✅ Certified Kubernetes Administrator (CKA)  
-✅ HashiCorp Certified: Terraform Associate  
-✅ DevOps Foundation  
+- Microsoft Certified: **Azure Administrator Associate**  
+- AWS Certified: **Solutions Architect – Associate**  
+- **Certified Kubernetes Administrator (CKA)**  
+- **HashiCorp Certified: Terraform Associate**  
+- **DevOps Foundation Certification**  
 
 ---
 
