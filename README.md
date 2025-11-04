@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 About Me  
-💼 **Cloud & DevOps Engineer** with 12+ years of experience designing, architecting, and managing enterprise infrastructure across **Azure** and **AWS**.  
+💼 12+ years of experience IT Leadership, designing, architecting, and managing enterprise infrastructure across **Azure** and **AWS**.  
 🧰 Passionate about **Infrastructure as Code (IaC)**, **Kubernetes orchestration**, and **CI/CD automation** with a focus on **cloud-native security**.  
 🔍 Skilled in **cost optimization**, **monitoring**, and **DevSecOps** best practices for production-grade environments.  
 🌱 Currently exploring **AI-driven DevOps**, **FinOps**, and **Platform Engineering** to enhance automation and operational efficiency.  
