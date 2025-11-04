@@ -13,7 +13,6 @@
   <a href="mailto:kumarmetla91@gmail.com">Email</a> |
   <a href="tel:+17176082896">Mobile</a>
 </p>
-
 ---
 
 ### 🚀 About Me  
