@@ -36,7 +36,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 #### ⚙️ Configuration Management
