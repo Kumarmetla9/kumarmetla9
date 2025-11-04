@@ -85,6 +85,7 @@
 
 #### 🔐 Security & Testing
 <p align="left">
+  <img src="https://img.shields.io/badge/Wiz-009B77?style=for-the-badge&logo=wiz&logoColor=white" />
   <img src="https://img.shields.io/badge/Checkmarx-FF0000?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Snyk-00BFFF?style=for-the-badge&logo=snyk&logoColor=white" />
