@@ -15,8 +15,8 @@
 ---
 
 ### 🚀 About Me  
-💼 12+ years of experience IT Leadership, designing, architecting, and managing enterprise infrastructure across **Azure** and **AWS**.  
-🧰 Passionate about **Infrastructure as Code (IaC)**, **Kubernetes orchestration**, and **CI/CD automation** with a focus on **cloud-native security**.  
+💼 12+ years of experience in IT Leadership, designing, architecting, and managing enterprise infrastructure across **Azure** and **AWS**.  
+🧰 Passionate about **Infrastructure as Code (IaC)**, **Kubernetes orchestration**, and **CI/CD automation** with focus on **cloud-native security**.  
 🔍 Skilled in **cost optimization**, **monitoring**, and **DevSecOps** best practices for production-grade environments.  
 🌱 Currently exploring **AI-driven DevOps**, **FinOps**, and **Platform Engineering** to enhance automation and operational efficiency.  
 ⚡ Known for delivering **resilient, scalable, and secure multi-cloud solutions** that align with business and compliance goals.  
